@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- source code from W3 schools, adapted for site -->
+  <title>Darwin's Portfolio</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="style.js"></script>
+</head>
+<!-- ensures scrolling works smoothly -->
+<body id="index" data-spy="scroll" data-target=".navbar" data-offset="50">
+<!-- navigation bar -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#index">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="#resume">RESUME</a></li>
+        <li><a href="#gallery">GALLERY</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Merchandise</a></li>
+            <li><a href="#">Extras</a></li>
+            <li><a href="#">Media</a></li>
+          </ul>
+        </li>
+        <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- header image -->
+<div id="myHeadear" class="header slide" data-ride="header">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myHeader" data-slide-to="0" class="active"></li>
+      <li data-target="#myHeader" data-slide-to="1"></li>
+      <li data-target="#myHeader" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/carousel1.jpeg" alt="New York" width="1200" height="700">
+        <div class="carousel-caption">
+          <h3>test image 1</h3>
+          <p>The atmosphere in New York is lorem ipsum.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/carousel1.jpeg" alt="Chicago" width="1200" height="700">
+        <div class="carousel-caption">
+          <h3>test image 2</h3>
+          <p>Thank you, Chicago - A night we won't forget.</p>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/carousel1.jpeg" alt="Los Angeles" width="1200" height="700">
+        <div class="carousel-caption">
+          <h3>test image 3</h3>
+          <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myHeader" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myHeader" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<!-- Container (The about Section) -->
+<div id="about" class="container text-center">
+  <h3>BIOGRAPHY</h3>
+  <p><em>Who am I</em></p>
+  <p>We have created a fictional about website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <br>
+</div>
+
+<!-- Container (resume Section) | SOME CONTENT HERE, PERHAPS VIDEO REELS? -->
+<div id="resume" class="bg-1">
+  <div class="container">
+    <h3 class="text-center">Something about wife maybe</h3>
+    <p class="text-center">Selected projects and images<br> click the button to learn more</p>
+    <!--
+    <ul class="list-group">
+      <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
+      <li class="list-group-item">October <span class="label label-danger">Sold Out!</span></li>
+      <li class="list-group-item">November <span class="badge">3</span></li>
+    </ul>
+    -->
+
+    <div class="row text-center">
+      <div class="col-sm-3">
+        <div class="thumbnail">
+          <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/content.jpeg" alt="content" width="400" height="300">
+          <p><strong>content</strong></p>
+          <p>short description</p>
+          <button class="btn" data-toggle="modal" data-target="#myModal">view project</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="thumbnail">
+          <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/content.jpeg" alt="content" width="400" height="300">
+          <p><strong>content</strong></p>
+          <p>short description</p>
+          <button class="btn" data-toggle="modal" data-target="#myModal">view project</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="thumbnail">
+          <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/content.jpeg" alt="content" width="400" height="300">
+          <p><strong>content</strong></p>
+          <p>short description</p>
+          <button class="btn" data-toggle="modal" data-target="#myModal">view project</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="thumbnail">
+          <img src="/Users/BrittSky/Downloads/darwin site/root/IMG/content.jpeg" alt="content" width="400" height="300">
+          <p><strong>content</strong></p>
+          <p>short description</p>
+          <button class="btn" data-toggle="modal" data-target="#myModal">view project</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
+              <input type="number" class="form-control" id="psw" placeholder="How many?">
+            </div>
+            <div class="form-group">
+              <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
+              <input type="text" class="form-control" id="usrname" placeholder="Enter email">
+            </div>
+              <button type="submit" class="btn btn-block">Pay
+                <span class="glyphicon glyphicon-ok"></span>
+              </button>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cancel
+          </button>
+          <p>Need <a href="#">help?</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Container (Contact Section) -->
+<div id="contact" class="container">
+  <h3 class="text-center">Contact</h3>
+  <p class="text-center"><em>some text here</em></p>
+
+  <div class="row">
+<!--
+    <div class="col-md-4">
+      <p>Fan? Drop a note.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span>Chicago, US</p>
+      <p><span class="glyphicon glyphicon-phone"></span>Phone: +00 1515151515</p>
+      <p><span class="glyphicon glyphicon-envelope"></span>Email: mail@mail.com</p>
+    </div>
+-->
+    <div class="col-md-8">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+      <br>
+      <div class="row">
+        <div class="col-md-12 form-group">
+          <button class="btn pull-right" type="submit">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+</div>
+
+<!-- Footer -->
+<footer class="text-center">
+  <!-- arrow for scrolling up -->
+  <a class="up-arrow" href="#index" data-toggle="tooltip" title="TO TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p>Made with love <a href="https://www.brittneymc.com" data-toggle="tooltip" title="Check out Brittney's portfolio">www.brittneymc.com</a></p>
+</footer>
+
+</body>
+</html>
