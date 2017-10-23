@@ -26,3 +26,8 @@ $(document).ready(function(){
     } // End if
   });
 })
+
+
+$(document).ready(function() {
+    $("#my_audio").get(0).play();
+});
