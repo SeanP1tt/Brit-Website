@@ -29,5 +29,7 @@ $(document).ready(function(){
 
 
 $(document).ready(function() {
+    if ($("#my_audio").get(0) !== undefined){
     $("#my_audio").get(0).play();
+    }
 });
