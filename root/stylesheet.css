@@ -138,3 +138,6 @@ footer a:hover {
 textarea {
     resize: none;
 }
+.col-sm-4 img {
+    width: 100%;
+}
