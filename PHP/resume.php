@@ -65,7 +65,7 @@ Raja Gosnell
         </p></div>
 </div>
     <br>
-     <h3>TELEVISION</h3>
+     <h3>Television</h3>
     <div class="row">
     <div class="col-sm-4" ><p> 
 Dexter<br>
@@ -112,6 +112,56 @@ Nick Gomez/NBC<br>
 Gary Nelson/CBS<br>
 Nick Mark/ABC
     </p></div>        
+    </div>
+    <br>
+     <h3>Theatre</h3>
+    <div class="row">
+    <div class="col-sm-4" ><p> 
+Private Hearts<br>
+The Apartment<br>
+Ugly<br>
+Sex, Relationships and Love<br>
+The Buddy Holly Story<br>
+Dutchman<br>
+Roll of Thunder Hear My Cry<br>
+The Buddy Holly Story<br>
+Other World Lovers<br>
+Dreamgirls<br>
+The Trial<br>
+Blues for Mr. Charlie<br>
+A Midsummer Night’s Dream
+        </p></div>
+<div class="col-sm-4" ><p> 
+    Funky Bob<br>
+Leon<br>
+Spoke<br>
+Various Roles<br>
+Apollo MC<br>
+Clay<br>
+Hammer<br>
+Apollo MC<br>
+Marcel<br>
+C.C. White<br>
+Bailiff<br>
+Richard<br>
+Oberon
+    </p></div>
+<div class="col-sm-4" ><p> 
+The Cast Theatre<br>
+The Cast Theatre<br>
+Santa Monica Playhouse<br>
+The Complex<br>
+Stage West, Calgary<br>
+Charles Banks Theatre<br>
+Apple Tree Theatre<br>
+The Apollo Theatre<br>
+Victory Gardens Theatre<br>
+Charles Banks Theatre<br>
+ETA Theatre<br>
+Baldwin Theatre Company<br>
+1000 Hills Shakespeare Festival<br>
+    </p></div>        
+    </div>
     </div>
 <!-- end RESUME section -->
 

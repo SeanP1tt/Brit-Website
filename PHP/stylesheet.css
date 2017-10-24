@@ -148,6 +148,10 @@ textarea {
   height:600px;
 }
 
-#resume {
-    margin: 0;
+#resume > .row {
+    padding-left: 40px;
+}
+
+h3 {
+    padding-left: 40px;
 }
