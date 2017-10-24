@@ -147,3 +147,7 @@ textarea {
   width: 100%;
   height:600px;
 }
+
+#resume {
+    margin: 0;
+}

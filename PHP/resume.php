@@ -28,7 +28,91 @@
   </p>
   <br>
   <br>
+    <h3>Film</h3>
+    <div class="row">
+    <div class="col-sm-4" ><p>
+        Confessions Of A Prodigal Son<br>
+Undefiled<br>
+Heart’s Desire<br>
+Trespass<br>
+The Boston Strangler<br>
+Lost<br>
+Brat 2<br>
+Home Alone 3
+
+        </p></div>
+        
+    <div class="col-sm-4" ><p>
+        Lead<br>
+Lead<br>
+Lead<br>
+Supporting<br>
+Lead<br>       
+Lead<br>
+Supporting<br>     
+Supporting
+        </p></div>
+        
+    <div class="col-sm-4"><p>
+        Allan Spiers<br>
+Raykel Tolson<br>
+Raymond Parker<br>
+Xandy Smith<br>
+Keith Walley<br>
+Samah Tokmachi<br>
+Alexei Balabunov<br>
+Raja Gosnell
+        </p></div>
 </div>
+    <br>
+     <h3>TELEVISION</h3>
+    <div class="row">
+    <div class="col-sm-4" ><p> 
+Dexter<br>
+NCIS-LA<br>
+The Bay*<br>
+Creative Cove<br>
+Decktechs<br>
+Liberator<br>
+Wizards Of Waverly Place<br>
+Brothers And Sisters<br>
+Men Interrupted (Pilot)<br>
+Cold Case<br>
+Crossing Jordan<br>
+Early Edition<br>
+Cupid
+        </p></div>
+<div class="col-sm-4" ><p> 
+    Co-Star<br>
+Co-Star<br>
+Recurring<br>
+Series Regular<br>
+Series Regular<br>
+Recurring<br>
+Co-Star<br>
+Co-Star<br>
+Series Regular<br>
+Co-Star<br>
+Co-Star<br>
+Guest Star<br>
+Co-Star
+    </p></div>
+<div class="col-sm-4" ><p> 
+Alik Sakharov/Showtime<br>
+Robert Florio/CBS<br>
+Gregori Martin/Lany Films<br>
+Cameron Lanier/MYS<br>
+David Kendall/Kendall Pictures<br>
+Aaron Pope/Coverage Ink<br>
+Victor Gonzalez/Disney Channel<br>
+Michael Morris/ABC<br>
+Rick Walls/HW<br>
+David Barrett/CBS<br>
+Nick Gomez/NBC<br>
+Gary Nelson/CBS<br>
+Nick Mark/ABC
+    </p></div>        
+    </div>
 <!-- end RESUME section -->
 
 <!-- SPLIT INBETWEEN SITE -->
