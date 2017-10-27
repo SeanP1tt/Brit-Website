@@ -39,7 +39,7 @@
       </div>
 
       <div class="item slider-img">
-        <img src="IMG/test2.jpeg" alt="Picture 2" width="1200" height="300" class="slider-img">
+        <img src="IMG/test2.jpeg" alt="Picture 2" width="1200" height="700" class="slider-img">
         <div class="carousel-caption">
           <h3>test image 2</h3>
           <p>some caption here</p>
@@ -66,7 +66,7 @@
     </a>
 </div>
 
-<!-- Container (The about Section) -->
+<!-- Container // a word from darwin -->
 <div id="about" class="container text-center">
   <h3>A WORD FROM DARWIN</h3>
   <p><em>mantras to live by</em></p>
@@ -75,7 +75,7 @@
 </div>
 
 <!-- Container // SOME CONTENT HERE, PERHAPS VIDEO REELS? -->
-<div id="none" class="bg-1">
+<div id="index" class="bg-1">
   <div class="container">
     <h3 class="text-center">CONTENT</h3>
     <p class="text-center">Selected projects and images<br> click the button to learn more</p>
@@ -123,17 +123,21 @@
     </div>
   </div>
 
-  <!-- Modal -->
+  <!-- Modal // pop up box for "view project" -->
+<!--
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
-
+-->
       <!-- Modal content-->
+<!--
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">×</button>
-          <h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
+          <h4><span class="glyphicon glyphicon-flag"></span> You are leaving this page</h4>
         </div>
+
         <div class="modal-body">
+
           <form role="form">
             <div class="form-group">
               <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
@@ -147,6 +151,7 @@
                 <span class="glyphicon glyphicon-ok"></span>
               </button>
           </form>
+
         </div>
         <div class="modal-footer">
           <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
@@ -156,8 +161,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
+
 
 <!-- Container (Contact Section) -->
 <div id="contact" class="container">

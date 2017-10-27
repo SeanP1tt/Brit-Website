@@ -19,8 +19,8 @@
 <?php include 'nav.php'; ?>
 
 
-<!-- Container (The about Section) -->
-<div id="gallery" class="container">
+<!-- Container // the gallery -->
+<div id="gallery" class="container text-center"> <!--class="container"> -->
     <h3>GALLERY</h3>
  <div class="row">
     <div class="col-sm-4" ><img src="IMG/image_00001_pp.jpeg"></div>
@@ -34,11 +34,13 @@
     <div class="col-sm-4" ><img src="IMG/image_00003_pp.jpeg"></div>
   </div>
 </div>
-<!-- SOME CONTENT HERE, PERHAPS VIDEO REELS? -->
+
+<!-- SOME CONTENT HERE -->
 <div id="none" class="bg-1">
   <div class="container">
     <h3 class="text-center">Some quote or something similar</h3>
-    <p class="text-center">Selected projects and images<br> click the button to learn more</p>
+    <p class="text-center">the purpose of this section is to break apart the white space<br>
+      click the button to learn more</p>
     <!--
     <ul class="list-group">
       <li class="list-group-item">September <span class="label label-danger">Sold Out!</span></li>
@@ -48,41 +50,6 @@
     -->
   </div>
 </div>
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
-    <div class="modal-dialog">
-
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">×</button>
-          <h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
-        </div>
-        <div class="modal-body">
-          <form role="form">
-            <div class="form-group">
-              <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
-              <input type="number" class="form-control" id="psw" placeholder="How many?">
-            </div>
-            <div class="form-group">
-              <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
-              <input type="text" class="form-control" id="usrname" placeholder="Enter email">
-            </div>
-              <button type="submit" class="btn btn-block">Pay
-                <span class="glyphicon glyphicon-ok"></span>
-              </button>
-          </form>
-        </div>
-        <div class="modal-footer">
-          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-            <span class="glyphicon glyphicon-remove"></span> Cancel
-          </button>
-          <p>Need <a href="#">help?</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
-
 
 <!-- Container (Contact Section) -->
 <div id="contact" class="container">
