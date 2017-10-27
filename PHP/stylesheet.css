@@ -157,3 +157,11 @@ textarea {
 h3 {
     padding-left: 40px;
 }
+
+.navbar-default{
+    height: 60px;
+}
+
+.container-fluid {
+    height: 60px;
+}
