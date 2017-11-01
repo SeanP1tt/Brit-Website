@@ -105,9 +105,13 @@ h3, h4 {
 .navbar-nav li a:hover {
     color: #fff !important;
 }
+
+.navbar-nav li a:active {
+    background-color: #00BFFF !important;
+}
 .navbar-nav li.active a {
-    color: #fff !important;
-    background-color: #29292c !important;
+    color: #00BFFF !important;
+    background-color: #00BFFF !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -164,4 +168,8 @@ h3 {
 
 .container-fluid {
     height: 60px;
+}
+
+.active {
+    background-color: #00BFFF
 }
