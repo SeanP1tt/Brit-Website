@@ -1,3 +1,5 @@
+console.log("hello");
+
 $(document).ready(function(){
   // Initialize Tooltip
   $('[data-toggle="tooltip"]').tooltip();
@@ -26,13 +28,26 @@ $(document).ready(function(){
     } // End if
   });
     
-   $('.nav.navbar-nav > li').on('click', function(e) {
-    $('.nav.navbar-nav > li').removeClass('active');
-    $(this).addClass('active');
-});    
+//   $('.nav.navbar-nav > li > a').on('click', function(e) {
+//    $('.nav.navbar-nav > li > a').removeClass('active');
+//    $(this).addClass('active');
+//});    
     
+    
+    
+    console.log("hi");
 })
 
+
+$(document).ready(function() {
+	// get current URL path and assign 'active' class
+	var pathname = window.location.pathname;
+	$('.nav > li > a[href="'+pathname+'"]').parent().addClass('active');
+})
+
+
+console.log(window.location.href);
+console.log("hi");
 
 $(document).ready(function() {
     if ($("#my_audio").get(0) !== undefined){
