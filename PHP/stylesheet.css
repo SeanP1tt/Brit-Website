@@ -1,3 +1,7 @@
+.active {
+    color: #00BFFF !important;
+}
+
 body {
     font: 400 15px/1.8 Lato, sans-serif;
     color: #777;
@@ -97,21 +101,20 @@ h3, h4 {
     font-size: 11px !important;
     letter-spacing: 4px;
     opacity: 0.9;
-<<<<<<< HEAD
-    height: 60px;
-=======
-    
->>>>>>> e0d2c9bc3cd6790eb456763b1ff3e70a291360a3
 }
 .navbar li a, .navbar .navbar-brand {
-    color: #d5d5d5 !important;
+    color: #d5d5d5;
 }
 .navbar-nav li a:hover {
     color: #fff !important;
 }
+
+.navbar-nav li a:active {
+    background-color: #00BFFF !important;
+}
 .navbar-nav li.active a {
-    color: #fff !important;
-    background-color: #29292c !important;
+    color: #00BFFF !important;
+    background-color: #00BFFF !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -162,15 +165,12 @@ h3 {
     padding-left: 40px;
 }
 
-<<<<<<< HEAD
 .nav {
     padding-top: 10px;
-=======
-.navbar-default{
-    height: 60px;
 }
 
 .container-fluid {
     height: 60px;
->>>>>>> e0d2c9bc3cd6790eb456763b1ff3e70a291360a3
+
 }
+
