@@ -39,11 +39,13 @@ $(document).ready(function(){
 })
 
 
-$(document).ready(function() {
-	// get current URL path and assign 'active' class
-	var pathname = window.location.pathname;
-	$('.nav > li > a[href="'+pathname+'"]').parent().addClass('active');
-})
+//$(document).ready(function() {
+//	// get current URL path and assign 'active' class
+//	var pathname = window.location.pathname;
+//	$('.nav > li > a[href="'+pathname+'"]').parent().addClass('active');
+//    //for children
+//    $('ul li a').click(function(){ $('li a').removeClass("active"); $(this).addClass("active"); });
+//})
 
 
 console.log(window.location.href);
