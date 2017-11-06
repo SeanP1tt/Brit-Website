@@ -10,10 +10,10 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><<?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class="active"' ?> a href="index.php">HOME</a></li>
-        <li><<?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'class="active"' ?>a href="about.php">ABOUT</a></li>
-        <li><<?php if (basename($_SERVER['PHP_SELF']) == 'resume.php') echo 'class="active"' ?>a href="resume.php">RESUME</a></li>
-        <li><<?php if (basename($_SERVER['PHP_SELF']) == 'gallery.php') echo 'class="active"' ?>a href="gallery.php">GALLERY</a></li>
+        <li><a href="index.php">HOME</a></li>
+        <li><a href="about.php">ABOUT</a></li>
+        <li><a href="resume.php">RESUME</a></li>
+        <li><a href="gallery.php">GALLERY</a></li>
         <li><a href="#contact">CONTACT</a></li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE

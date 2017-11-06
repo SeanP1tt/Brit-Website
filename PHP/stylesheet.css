@@ -1,6 +1,4 @@
-.active {
-    color: #00BFFF !important;
-}
+
 
 body {
     font: 400 15px/1.8 Lato, sans-serif;
@@ -70,9 +68,9 @@ h3, h4 {
     transition: .2s;
 }
 .btn:hover, .btn:focus {
-    border: 1px solid #333;
-    background-color: #fff;
-    color: #000;
+    border: 1px solid #00BFFF;
+    background-color: #00BFFF;
+    color: #fff;
 }
 .modal-header, h4, .close {
     background-color: #333;
@@ -110,11 +108,11 @@ h3, h4 {
 }
 
 .navbar-nav li a:active {
-    background-color: #00BFFF !important;
+    color: #00BFFF !important;
 }
 .navbar-nav li.active a {
     color: #00BFFF !important;
-    background-color: #00BFFF !important;
+    background-color: #555 !important
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -174,3 +172,11 @@ h3 {
 
 }
 
+/*add hover and remove underline*/
+#reference { 
+    color: deepskyblue;
+}
+
+#video-view {
+    padding-left: 130px;
+}
