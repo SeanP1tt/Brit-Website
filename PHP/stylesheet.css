@@ -1,4 +1,6 @@
-
+.active {
+    color: #00BFFF !important;
+}
 
 body {
     font: 400 15px/1.8 Lato, sans-serif;
@@ -68,9 +70,9 @@ h3, h4 {
     transition: .2s;
 }
 .btn:hover, .btn:focus {
-    border: 1px solid #00BFFF;
-    background-color: #00BFFF;
-    color: #fff;
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
 }
 .modal-header, h4, .close {
     background-color: #333;
@@ -99,6 +101,7 @@ h3, h4 {
     font-size: 11px !important;
     letter-spacing: 4px;
     opacity: 0.9;
+    
 }
 .navbar li a, .navbar .navbar-brand {
     color: #d5d5d5;
@@ -108,11 +111,11 @@ h3, h4 {
 }
 
 .navbar-nav li a:active {
-    color: #00BFFF !important;
+    background-color: #00BFFF !important;
 }
 .navbar-nav li.active a {
     color: #00BFFF !important;
-    background-color: #555 !important
+    background-color: #00BFFF !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -163,20 +166,11 @@ h3 {
     padding-left: 40px;
 }
 
-.nav {
-    padding-top: 10px;
+.navbar-default{
+    height: 60px;
 }
 
 .container-fluid {
     height: 60px;
-
 }
 
-/*add hover and remove underline*/
-#reference { 
-    color: deepskyblue;
-}
-
-#video-view {
-    padding-left: 130px;
-}

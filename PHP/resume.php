@@ -31,7 +31,7 @@
     <h3>Film</h3>
     <div class="row">
     <div class="col-sm-4" ><p>
-        <a class="popup" href="#!" data-link="http://www.youtube.com/embed/xl_n03Ofi9k?enablejsapi=1" data-title="Confessions of A Prodigal Son">Confessions Of A Prodigal Son</a><br>
+        Confessions Of A Prodigal Son<br>
 Undefiled<br>
 Heart’s Desire<br>
 Trespass<br>
@@ -64,9 +64,6 @@ Alexei Balabunov<br>
 Raja Gosnell
         </p></div>
 </div>
-    <br>
-    
-<div id="video-view"></div>    
     <br>
      <h3>Television</h3>
     <div class="row">
@@ -185,7 +182,31 @@ Baldwin Theatre Company<br>
 <!-- end content -->
 
 <!-- Container (Contact Section) -->
-<?php include 'contact.php'; ?>
+<div id="contact" class="container">
+  <h3 class="text-center">Contact</h3>
+  <p class="text-center"><em>Have business inquires? Contact one of my agents using the informaton below.</em></p>
+  <br>
+  <div class="row">
+    <!-- -->
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>    Pure Talent Management</p>
+      <p><span class="glyphicon glyphicon-user"></span>   Manager-Katrina Herlong</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (818)358-3830</p>
+    </div>
+
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>   Privilege Talent</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (404) 430-1104</p>
+    </div>
+
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>   Commercial Representation-Stark Talent</p>
+      <p><span class="glyphicon glyphicon-user"></span>    Agent-Alycia Stark</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (310) 409-7383</p>
+    </div>
+  </div>
+  <br>
+</div>
 <!-- end Contact section -->
 
 <!-- Footer -->

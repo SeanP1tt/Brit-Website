@@ -27,30 +27,29 @@ $(document).ready(function(){
       });
     } // End if
   });
-
-});
-
-//dynamically assigns active class. Does not update after scrolling from contact section
-$(document).ready(function() {
-	// get current URL path and assign 'active' class
-	var pathname = window.location.pathname;
-    pathname = pathname.substring(1); //strips the /
-	$('.nav > li > a[href="'+pathname+'"]').parent().addClass('active');
-    //for children
-    $('ul li a').click(function(){ $('li a').removeClass("active"); $(this).addClass("active"); });
+    
+//   $('.nav.navbar-nav > li > a').on('click', function(e) {
+//    $('.nav.navbar-nav > li > a').removeClass('active');
+//    $(this).addClass('active');
+//});    
     
     
-    //youtube code  
-    $(".popup").click(function () {
-    var $this = $(this);
-    var $iframe = $("<iframe>").attr("src", $this.data("link")).css({"width": 600, "height": 400});
-    var $title = $("#video-view").html($title).append($iframe);
-    $iframe.wrap("<div class='class-video'>");
-});
     
-    
+    console.log("hi");
 })
 
+
+//$(document).ready(function() {
+//	// get current URL path and assign 'active' class
+//	var pathname = window.location.pathname;
+//	$('.nav > li > a[href="'+pathname+'"]').parent().addClass('active');
+//    //for children
+//    $('ul li a').click(function(){ $('li a').removeClass("active"); $(this).addClass("active"); });
+//})
+
+
+console.log(window.location.href);
+console.log("hi");
 
 $(document).ready(function() {
     if ($("#my_audio").get(0) !== undefined){

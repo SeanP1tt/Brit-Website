@@ -25,19 +25,21 @@
   <h3>BIOGRAPHY</h3>
   <p><em>So you wanna know about me, eh?</em></p>
 
-  <p> I was born and raised in a quiet residental surburb of St. Louis Missouri called University City. I have an older brother who is a 6th and 7th grade teacher in surburban St. Louis. My parents are both retired. My mom taught for over 30 years in the St. Louis public school system. My dad worked for over 30 years for the US government.  I was raised believing I can be a success in anything I desire to pursue as long as I keep faith in God and in prayer.
+  <p> I was born and raised in a quiet residental surburb of St. Louis Missouri called University City. I have an older brother who is a 6th and 7th grade teacher in surburban St. Louis. My parents are both retired. My mom taught for over 30 years in the St. Louis public school system. My dad worked for over 30 years for the US government. My parents have been happily married for 39 years and are both very active in the church. My dad is an ordained minister and my mom is a missionary. I grew up in a functional family. We had dinner together every evening. I was raised believing I can be a success in anything I desire to pursue as long as I keep faith in God and in prayer.
   <br>
-My first love was not acting but music. I quickly caught on to the trumpet and loved every minute off it. In 7th grade I was introduced to jazz and the rest was history…so I thought. Myself and 3 other classmates founded the U.City Jazz Dispatch, most noteably <a id="reference" href="http://www.bassplayer.com/artists/1171/neal-caine-feel-over-flash-with-harry-connick-jr/62421">Neal “Sugar” Caine</a>(currently bassist for Harry Connick Jr.) . Our jazz quartet earned rave reviews everywhere we played. In fact The St. Louis Dispatch named us “the future of jazz…” What I didn’t know was my future would soon be changed.
-
+My first love was not acting but music. I took piano lessons in the first grade for about a year. My parents bought a piano for me to practice but shortly thereafter I quit. The piano still sits in my parents living room in the exact location it was delivered years ago. I always had a great musical ear and I kept singing in choirs at school and church. In 5th grade I decided to make a move to the brass instrument trumpet and that is when my artistic transformation began.
   <br>
-In 10th grade my high school held auditions for a production of West Side Story. My childhhod friend <a id="reference" href="http://www.imdb.com/name/nm0731346/">Leonard Roberts</a> had always been involved in drama and convinced me to audition. Leonard got the lead playing Tony and I was his understudy. I also had a small role as one of The Jets. After being on stage in that production I had a feeling that I never had while playing trumpet. I wasn’t nervous! Even then I knew that I needed to learn the craft of acting. So I immediately took classes in scene study and improv. I continued to audition, earning roles in Dreamgirls, The Shadow Box, and several local film and stage productions. After watching the Spike Lee film Mo Betta Blues and its tragic ending, I decided to make trumpet a hobby and go to college to pursue a degree in Theatre.
+I quickly caught on to the trumpet and loved every minute off it. My first two years(5th and 6th grade) I played mostly classical music. In 7th grade I was introduced to jazz by my 7th grade band director Hiram Martin. I joined the 7th grade jazz band and the rest was history…so I thought. In 7th grade myself and 3 other classmates founded the U.City Jazz Dispatch, most noteably Neal “Sugar” Caine(currently bassist for Harry Connick Jr.) . Our jazz quartet earned rave reviews everywhere we played. In fact The St. Louis Dispatch named us “the future of jazz…” What I didn’t know was my future would soon be changed.
   <br>
-I graduated from Truman State University where I earned a B.A. in Theatre. While at Truman I directed, produced and wrote several plays. As a freshman I starred alongside classmate <a id="reference" href="http://www.imdb.com/name/nm0278979/">Jenna Fischer</a> in Blues For Mr Charlie. Four years later I graduated from Truman and moved to Chicago to pursue my acting career further.
+In 10th grade my high school held auditions for a production of West Side Story. My childhhod friend Leonard Roberts(from NBC’s Heroes) had always been involved in drama and convinced me to audition. Leonard got the lead playing Tony and I was his understudy. I also was one of the Jets with like 14 lines. After being on stage in that production I had a feeling that I never had while playing trumpet, singing in the choir or even during my short piano stint. I wasn’t nervous! Even then I knew that I needed to learn the craft of acting. So I immediately took classes in scene study and improv. I continued to audition, earning roles in Dreamgirls, The Shadow Box, and several local film and stage productions.
   <br>
-
+After watching the Spike Lee film Mo Betta Blues and its tragic ending I decided make trumpet hobby and go to college to pursue a degree in acting.
+  <br>
+I graduated from Truman State University where I earned a B.A. in Theatre. While at Truman I directed, produced and wrote several plays. As a freshman I starred alongside classmate Jenna Fischer (NBC’s The Office). Four years later I graduated from Truman and moved to Chicago to pursue my acting career further.
+  <br>
 While in Chicago I performed in several stage productions including Other World Lovers at Tony Award winning Victory Gardens Theatre, Roll of Thunder Hear My Cry and The Buddy Holly Story to name a few. I also made several TV guest appearances in Cupid(ABC) starring Jeremy Piven, and Early Edition(CBS) starring Fischer Stevens and Kyle Chandler.
   <br>
-After living in Los Angeles for 16 years I made the decision to move to New York, where I currently reside. </p>
+After working on a few more films I made the difficult decision to move west to LA where I have lived for 7 years. I currently reside in Hollywood. Since being here in LA I’ve guest starred in Crossing Jordan(NBC), Haunted(UPN), and Cold Case(CBS) to name a few. I’ve also booked several commercials and films.</p>
   <br>
 </div>
 
@@ -93,7 +95,31 @@ After living in Los Angeles for 16 years I made the decision to move to New York
 
 
 <!-- Container (Contact Section) -->
-<?php include 'contact.php'; ?>
+<div id="contact" class="container">
+  <h3 class="text-center">Contact</h3>
+  <p class="text-center"><em>Have business inquires? Contact one of my agents using the informaton below.</em></p>
+  <br>
+  <div class="row">
+    <!-- -->
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>    Pure Talent Management</p>
+      <p><span class="glyphicon glyphicon-user"></span>   Manager-Katrina Herlong</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (818)358-3830</p>
+    </div>
+
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>   Privilege Talent</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (404) 430-1104</p>
+    </div>
+
+    <div class ="col-sm-4">
+      <p><span class="glyphicon glyphicon-paperclip"></span>   Commercial Representation-Stark Talent</p>
+      <p><span class="glyphicon glyphicon-user"></span>    Agent-Alycia Stark</p>
+      <p><span class="glyphicon glyphicon-phone"></span>   (310) 409-7383</p>
+    </div>
+  </div>
+  <br>
+</div>
 <!-- end Contact section -->
 
 <!-- Footer -->
