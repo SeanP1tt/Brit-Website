@@ -76,9 +76,7 @@ h3, h4 {
 .nav-tabs li a {
     color: #777;
 }
-
 .navbar {
-    height: 60px;
     font-family: Montserrat, sans-serif;
     margin-bottom: 0;
     background-color: #2d2d30;
@@ -95,11 +93,13 @@ h3, h4 {
 }
 
 .navbar-nav li a:active {
-    color: #337ab7 !important;
+    color: white !important;
+    /* color: #337ab7 !important; */
 }
 .navbar-nav li.active a {
-    color: #337ab7 !important;
-    /* background-color: #555 !important */
+    color: white !important;
+    /* color: #337ab7 !important; */
+    background-color: #555 !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -161,7 +161,7 @@ h3 {
 
 /*add hover and remove underline*/
 #reference {
-    color: deepskyblue;
+    color: #337ab7;
 }
 
 #video-view {
