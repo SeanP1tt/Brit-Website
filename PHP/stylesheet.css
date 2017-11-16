@@ -68,8 +68,8 @@ h3, h4 {
     transition: .2s;
 }
 .btn:hover, .btn:focus {
-    border: 1px solid ##337ab7;
-    background-color: ##337ab7;
+    border: 1px solid #337ab7;
+    background-color: #337ab7;
     color: #fff;
 }
 
@@ -88,17 +88,17 @@ h3, h4 {
     opacity: 0.9;
 }
 .navbar li a, .navbar .navbar-brand {
-    color: ##337ab7;
+    color: #337ab7;
 }
 .navbar-nav li a:hover {
     color: #fff !important;
 }
 
 .navbar-nav li a:active {
-    color: ##337ab7 !important;
+    color: #337ab7 !important;
 }
 .navbar-nav li.active a {
-    color: ##337ab7 !important;
+    color: #337ab7 !important;
     /* background-color: #555 !important */
 }
 .navbar-default .navbar-toggle {
