@@ -33,7 +33,8 @@
     <div class="col-sm-4" ><p>
         <a class="popup" href="#!" data-link="http://www.youtube.com/embed/xl_n03Ofi9k?enablejsapi=1" data-title="Confessions of A Prodigal Son">Confessions Of A Prodigal Son</a><br>
 Undefiled<br>
-Heart’s Desire<br>
+Your Hearts Desire<br>
+        Average American Marriage <br>
 Trespass<br>
 The Boston Strangler<br>
 Lost<br>
@@ -47,6 +48,7 @@ Home Alone 3
 Lead<br>
 Lead<br>
 Supporting<br>
+Supporting<br>
 Lead<br>       
 Lead<br>
 Supporting<br>     
@@ -54,14 +56,15 @@ Supporting
         </p></div>
         
     <div class="col-sm-4"><p>
-        Allan Spiers<br>
-Raykel Tolson<br>
-Raymond Parker<br>
-Xandy Smith<br>
-Keith Walley<br>
-Samah Tokmachi<br>
-Alexei Balabunov<br>
-Raja Gosnell
+        Allan Spiers/Lighting Dark<br>
+Raykel Tolson/Tolson Films<br>
+Raymond Parker/Gemini<br>
+Charles Emmett/AUFA<br>        
+Xandy Smith/Soul Uprising<br>
+Keith Walley/BSP<br>
+Samah Tokmachi/Indie<br>
+Alexei Balabunov/Kaizen<br>
+Raja Gosnell/20th Century Fox
         </p></div>
 </div>
     <br>
@@ -71,9 +74,10 @@ Raja Gosnell
      <h3>Television</h3>
     <div class="row">
     <div class="col-sm-4" ><p> 
+The Jury-Pilot<br>
 Dexter<br>
 NCIS-LA<br>
-The Bay*<br>
+*The Bay<br>
 Creative Cove<br>
 Decktechs<br>
 Liberator<br>
@@ -86,6 +90,7 @@ Early Edition<br>
 Cupid
         </p></div>
 <div class="col-sm-4" ><p> 
+     Co-Star<br>
     Co-Star<br>
 Co-Star<br>
 Recurring<br>
@@ -100,26 +105,28 @@ Co-Star<br>
 Guest Star<br>
 Co-Star
     </p></div>
-<div class="col-sm-4" ><p> 
-Alik Sakharov/Showtime<br>
-Robert Florio/CBS<br>
-Gregori Martin/Lany Films<br>
-Cameron Lanier/MYS<br>
-David Kendall/Kendall Pictures<br>
-Aaron Pope/Coverage Ink<br>
-Victor Gonzalez/Disney Channel<br>
-Michael Morris/ABC<br>
-Rick Walls/HW<br>
-David Barrett/CBS<br>
-Nick Gomez/NBC<br>
-Gary Nelson/CBS<br>
-Nick Mark/ABC
+<div class="col-sm-4" ><p>
+    ABC <br>
+Showtime<br>
+CBS<br>
+Lany Films<br>
+MYS Prod<br>
+Kendall Pictures<br>
+Coverage Ink<br>
+Disney Channel<br>
+ABC<br>
+HW Productions<br>
+CBS<br>
+NBC<br>
+CBS<br>
+ABC
     </p></div>        
     </div>
     <br>
      <h3>Theatre</h3>
     <div class="row">
     <div class="col-sm-4" ><p> 
+         Chase N Essence <br>
 Private Hearts<br>
 The Apartment<br>
 Ugly<br>
@@ -127,14 +134,11 @@ Sex, Relationships and Love<br>
 The Buddy Holly Story<br>
 Dutchman<br>
 Roll of Thunder Hear My Cry<br>
-The Buddy Holly Story<br>
 Other World Lovers<br>
-Dreamgirls<br>
-The Trial<br>
-Blues for Mr. Charlie<br>
-A Midsummer Night’s Dream
+Dreamgirls
         </p></div>
 <div class="col-sm-4" ><p> 
+    Chase <br>
     Funky Bob<br>
 Leon<br>
 Spoke<br>
@@ -142,14 +146,10 @@ Various Roles<br>
 Apollo MC<br>
 Clay<br>
 Hammer<br>
-Apollo MC<br>
 Marcel<br>
-C.C. White<br>
-Bailiff<br>
-Richard<br>
-Oberon
-    </p></div>
+C.C. White</div>
 <div class="col-sm-4" ><p> 
+    Santa Monica Playhouse <br>
 The Cast Theatre<br>
 The Cast Theatre<br>
 Santa Monica Playhouse<br>
@@ -157,14 +157,19 @@ The Complex<br>
 Stage West, Calgary<br>
 Charles Banks Theatre<br>
 Apple Tree Theatre<br>
-The Apollo Theatre<br>
 Victory Gardens Theatre<br>
-Charles Banks Theatre<br>
-ETA Theatre<br>
-Baldwin Theatre Company<br>
-1000 Hills Shakespeare Festival<br>
+Charles Banks Theatre
     </p></div>        
     </div>
+    
+    <h3>Training</h3>
+    <p>B.A. Theatre - Truman State University; <br>
+    <b>Cold Reading</b>- Audrey Wasilewski <br>
+    <b>Scene Study</b>- Steve Scott - Goodman Theatre; Amie Farrell-Adler Improv <br><b>Audition Technique</b>- Amie Farrell, Rob Adler-Adler Improv<br>
+    <b>On Camera Technique</b>- Amie Farrell-Adler Improv <br></p>
+    
+    <h3>Special Skills: </h3>
+    
     </div>
 <!-- end RESUME section -->
 
